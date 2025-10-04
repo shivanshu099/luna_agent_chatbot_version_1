@@ -63,6 +63,14 @@ cd ai-personal-assistant
 
 
 
+![Yumi Chatbot Banner](https://github.com/shivanshu099/luna_agent_chatbot_version_1/blob/main/luna_screenshot.png) <!-- Replace with actual image path -->
+
+
+
+
+
+
+
 
 
 
